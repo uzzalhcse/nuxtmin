@@ -17,7 +17,7 @@
                   <UInput input-class="bg-gray-100 border-gray-100 rounded-[10px]" id="search" type="search" placeholder="Search" icon="i-heroicons-magnifying-glass" />
                 </UFormGroup>
                 <button type="button" class="inline-flex items-center px-4 py-2 my-[3px] text-sm font-medium text-gray-900 bg-gray-100 rounded-[16px] hover:bg-gray-200">
-                  <UIcon class="mr-2 h-5 w-5" name="i-heroicons-shopping-bag" />
+                  <UIcon class="mr-2 h-5 w-5 text-green-500 font-bold" name="i-heroicons-shopping-bag" />
                   <span class="font-bold text-green-500">02</span>
                 </button>
               </div>
