@@ -1,5 +1,5 @@
 <template>
-  <div class="default">
+  <div class="default bg-gray-100">
     <!--    <h1>Default Layout</h1>-->
     <AppHeader />
     <slot />

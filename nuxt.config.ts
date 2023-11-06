@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   modules: [
     '@pinia/nuxt',
     '@nuxt/ui',
+    '@nuxt/image',
     '@samk-dev/nuxt-vcalendar'
   ],
 })
